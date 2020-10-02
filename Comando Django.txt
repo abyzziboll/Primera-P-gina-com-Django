@@ -1,0 +1,7 @@
+django-admin.exe startproject 'nome'
+>> cmd na pasta 'nome':
+python manage.py migration
+python manege.py makemegrtions
+python manege.py runserver
+
+*sempre geristrar as novas classes no admin.py da aplicação*
